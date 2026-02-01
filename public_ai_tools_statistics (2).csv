@@ -1,0 +1,6 @@
+tool,public_avg_rating,public_review_count,market_share,positive_percentage,enterprise_adoption_rate,pricing_tier,business_model,launch_year,productivity_improvement_mean,productivity_improvement_std,roi_months_mean,roi_months_std,preferred_industries,top_industry_rank,data_source,collection_date
+ChatGPT,4.3,12500,0.35,78.5,0.42,Premium,Freemium,2022,0.32,0.08,4.2,1.5,"['Technology', 'Finance', 'Healthcare']",1,Public Market Research & Academic Studies,2026-01-22
+GitHub Copilot,4.5,8500,0.25,82.3,0.38,Enterprise,Subscription,2021,0.45,0.07,3.8,1.2,['Technology'],1,Public Market Research & Academic Studies,2026-01-22
+Grammarly,4.2,23000,0.18,76.8,0.35,Freemium,Freemium,2009,0.28,0.06,5.1,1.8,"['Technology', 'Finance', 'Healthcare']",1,Public Market Research & Academic Studies,2026-01-22
+Notion AI,4.0,5200,0.12,72.1,0.28,Mid-tier,Subscription,2023,0.25,0.09,6.3,2.1,"['Finance', 'Education']",3,Public Market Research & Academic Studies,2026-01-22
+Jasper,3.8,6800,0.08,69.5,0.25,Premium,Subscription,2021,0.22,0.1,5.8,2.0,['Marketing'],1,Public Market Research & Academic Studies,2026-01-22

@@ -1,0 +1,29 @@
+feature,importance
+sentiment_score,0.0958610670203678
+tool_Jasper,0.06865677709614214
+tool_Notion AI,0.0625812785225757
+business_sentiment,0.03876173625044671
+industry_vertical_Technology,0.02033205445040229
+tool_GitHub Copilot,0.018984087278879912
+tool_Grammarly,0.008331921465905046
+business_focus_score,0.007531947757790633
+company_size_Startup (1-50),0.007130902762885875
+ease_of_use,0.00338712160434334
+industry_vertical_Finance,0.0025264596107201437
+company_size_SME (51-500),0.00205581688143079
+industry_vertical_Healthcare,0.0018420854131019162
+industry_vertical_Marketing,0.0015734013712415229
+review_length,0.0014196536326802958
+roi_months,0.0009952780151915664
+technical_depth,0.0009022356392023617
+company_size_Individual,0.0008667605942189453
+implementation_risk,0.0008272404361818118
+adoption_readiness,0.0006869404691728276
+innovation_potential,0.0005552888497336462
+productivity_improvement,0.000497548029024344
+strategic_insight,0.00040581339553726216
+user_role_Manager,3.1993203672892527e-05
+user_role_Executive,1.777263928640988e-05
+user_role_Developer,1.655235269647745e-05
+user_role_Consultant,1.2661016597346188e-05
+user_role_Content Creator,1.0226971200072243e-05

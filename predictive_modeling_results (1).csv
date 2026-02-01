@@ -1,0 +1,17 @@
+Model,Best_Params,Train_R2,Test_R2,CV_R2_Mean,CV_R2_Std,RMSE,MAE,Model_Object
+Random Forest,"{'max_depth': 10, 'min_samples_split': 2}",0.9502570462563324,0.917545313741166,0.9072697649800745,0.009219920689685964,0.09830087359414925,0.07521732384539928,"RandomForestRegressor(max_depth=10, n_estimators=200, random_state=42)"
+LightGBM,"{'learning_rate': 0.1, 'num_leaves': 31}",0.9786038918869158,0.908488556557918,0.904156714816142,0.007218882560537257,0.10355889517239654,0.07886724427275348,"LGBMRegressor(n_estimators=200, random_state=42)"
+XGBoost,"{'learning_rate': 0.1, 'max_depth': 3}",0.9306763738946238,0.90741163897693,0.9043504958286572,0.004948288332747298,0.10416645964261444,0.07969548015594488,"XGBRegressor(base_score=None, booster=None, callbacks=None,
+             colsample_bylevel=None, colsample_bynode=None,
+             colsample_bytree=None, device=None, early_stopping_rounds=None,
+             enable_categorical=False, eval_metric=None, feature_types=None,
+             feature_weights=None, gamma=None, grow_policy=None,
+             importance_type=None, interaction_constraints=None,
+             learning_rate=0.1, max_bin=None, max_cat_threshold=None,
+             max_cat_to_onehot=None, max_delta_step=None, max_depth=3,
+             max_leaves=None, min_child_weight=None, missing=nan,
+             monotone_constraints=None, multi_strategy=None, n_estimators=200,
+             n_jobs=None, num_parallel_tree=None, ...)"
+Gradient Boosting,"{'learning_rate': 0.1, 'max_depth': 3}",0.93052488861023,0.9047051902723318,0.9032003472570767,0.004116184287770301,0.10567793765294956,0.08045329654107496,"GradientBoostingRegressor(n_estimators=200, random_state=42)"
+Neural Network,"{'alpha': 0.001, 'hidden_layer_sizes': (50, 50)}",0.8888663025989251,0.8255261832998023,0.7759826904193552,0.02271535143014423,0.14299301931044775,0.1108099518432569,"MLPRegressor(alpha=0.001, hidden_layer_sizes=(50, 50), max_iter=1000,
+             random_state=42)"
